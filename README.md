@@ -8,12 +8,11 @@ En este proyecto desarrollaremos un pipeline de Ingieneria de Datos utilizando P
 ## Objetivos generales:
 Realizar un ETL por medio de AWs
 Desarrollar un pipeline de Ingieneria de Datos utilizando Python, SQL y AWS para su desarrollo.
-Realizar un proceso de Ingenieria de Datos utilizando diferentes teconoligias y herramientas
+
 
 ## Objetivos especificos:
 * Extraer la información, 
-* Transformacion
-Realizar limpieza, seleccion y transformacion de los datos por medio de Python, previo a cargar la informacion a la base de datos.  Utilizaremos librerias como Numpy y Pandas, para la exploración y analisis de la información. Para visualizacion de datos utilizaremos Matplotlib
+* Transformacion de los datos por medio de Python, previo a cargar la informacion a la base de datos.  Utilizaremos librerias como Numpy y Pandas, para la exploración y analisis de la información. Para visualizacion de datos utilizaremos Matplotlib
 * Extraer información de las tablas  por medio de SQL. 
 * Creacion de base de datos en la nube por medio de AWS en RDS
 * Crear ETLs
