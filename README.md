@@ -1,3 +1,11 @@
+# LABORATORIO #4
+
++ Marvin Alejandro Diaz Castillo
+Carné: 9516008
++ Héctor Alfredo Vásquez Alarcón
+Carné: 21006402
+
+
 # Proyecto Final
 
 ## Descripción
