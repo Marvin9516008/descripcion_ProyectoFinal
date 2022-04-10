@@ -1,8 +1,10 @@
 # LABORATORIO #4
 
-+ Marvin Alejandro Diaz Castillo
+![Universidad Galileo](https://www.galileo.edu/wp-content/themes/galileo-theme/img/logo-header.png)
+
++ _Marvin Alejandro Diaz Castillo_
 Carné: 9516008
-+ Héctor Alfredo Vásquez Alarcón
++ _Héctor Alfredo Vásquez Alarcón_
 Carné: 21006402
 
 
