@@ -31,6 +31,8 @@ Desarrollar un pipeline de Ingieneria de Datos utilizando Python, SQL y AWS para
 # Modelo de Datos
 El modelo de datos a utilizar es un dataset de ventas denominado "sales data". Este dataset esta disponible en Kaggle, por medio del link: https://www.kaggle.com/datasets/ankitchahal1/sales-data
 
+
+
 La serie seleccionada es estructurada, consta de 25 columnas y 2823 filas.
 
 *Columnas del dataset:*
